@@ -1,0 +1,13 @@
+ 
+
+{shop_url}
+
+Ang Hi {firstname}{lastname},
+
+{reply}
+
+Mangyaring huwag tumugon sa email na ito, hindi namin ito matatanggap. In order to reply, click on the following link: {link}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)
